@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 481dc52c9e0b9d04ba796edf3a9b2418
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: APT_Bdoor_box001
+    100004: APT_BElement3
+    100006: APT_Bfloor
+    100008: APT_Bfloor_bathroom
+    100010: APT_Bfridge_lp
+    100012: APT_BGlass2
+    100014: APT_BPlan1e
+    100016: APT_BShape001
+    100018: APT_BWindow frame2
+    100020: bathroom001
+    100022: Line005
+    100024: Object005
+    100026: Object006
+    100028: Object009
+    100030: Object010
+    100032: Object011
+    100034: Object012
+    100036: Object013
+    400000: //RootNode
+    400002: APT_Bdoor_box001
+    400004: APT_BElement3
+    400006: APT_Bfloor
+    400008: APT_Bfloor_bathroom
+    400010: APT_Bfridge_lp
+    400012: APT_BGlass2
+    400014: APT_BPlan1e
+    400016: APT_BShape001
+    400018: APT_BWindow frame2
+    400020: bathroom001
+    400022: Line005
+    400024: Object005
+    400026: Object006
+    400028: Object009
+    400030: Object010
+    400032: Object011
+    400034: Object012
+    400036: Object013
+    2100000: 'Material #2147449550'
+    2100002: Base
+    2100004: 'CRN.Material #3.004'
+    2100006: 'Material #2147448586'
+    2100008: 'Material #2147449549'
+    2100010: washdish_light
+    2100012: mat_door_Garderobe
+    2100014: 'Material #2147449523'
+    2100016: Material.004
+    2100018: Wall
+    2100020: 'Material #2147448857'
+    2100022: 'Material #2147448559'
+    2100024: No Name
+    2100026: Tiles17_3K
+    2100028: WoodFlooring043_4K
+    2100030: POKR PILasdfsdff sadasdfsadf
+    2100032: POKR PILasdfasdfasdf
+    2100034: pillow
+    2100036: POKR PILaSDasd
+    2100038: 'Material #228'
+    2100040: Da
+    2100042: Uph Cmix Pewter
+    2100044: 'Material #2147448864'
+    2100046: 'Material #2145963590'
+    2100048: tttt#21thbf45963591
+    2100050: 'Material #2147448535'
+    2100052: AI39_010_16
+    2100054: 'Material #2147448585'
+    2100056: 'Material #2147448866'
+    2100058: 'Material #2143883975'
+    2100060: 'Material #2147448865'
+    2100062: rug
+    2100064: Green_grass
+    2100066: 'Material #26'
+    2100068: Brown_wood
+    2100070: 'Material #25'
+    2100072: glass
+    2100074: base
+    2100076: 'Material #13'
+    2300000: APT_Bdoor_box001
+    2300002: APT_BElement3
+    2300004: APT_Bfloor
+    2300006: APT_Bfloor_bathroom
+    2300008: APT_Bfridge_lp
+    2300010: APT_BGlass2
+    2300012: APT_BPlan1e
+    2300014: APT_BShape001
+    2300016: APT_BWindow frame2
+    2300018: bathroom001
+    2300020: Line005
+    2300022: Object005
+    2300024: Object006
+    2300026: Object009
+    2300028: Object010
+    2300030: Object011
+    2300032: Object012
+    2300034: Object013
+    3300000: APT_Bdoor_box001
+    3300002: APT_BElement3
+    3300004: APT_Bfloor
+    3300006: APT_Bfloor_bathroom
+    3300008: APT_Bfridge_lp
+    3300010: APT_BGlass2
+    3300012: APT_BPlan1e
+    3300014: APT_BShape001
+    3300016: APT_BWindow frame2
+    3300018: bathroom001
+    3300020: Line005
+    3300022: Object005
+    3300024: Object006
+    3300026: Object009
+    3300028: Object010
+    3300030: Object011
+    3300032: Object012
+    3300034: Object013
+    4300000: APT_Bfridge_lp
+    4300002: APT_Bdoor_box001
+    4300004: APT_BGlass2
+    4300006: APT_BWindow frame2
+    4300008: APT_BPlan1e
+    4300010: APT_BShape001
+    4300012: APT_Bfloor_bathroom
+    4300014: APT_Bfloor
+    4300016: APT_BElement3
+    4300018: Object005
+    4300020: Object006
+    4300022: bathroom001
+    4300024: Object009
+    4300026: Object010
+    4300028: Object011
+    4300030: Object012
+    4300032: Object013
+    4300034: Line005
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI39_010_16
+    second: {fileID: 2100000, guid: a506359ffab69ac4e8fdd23cc46f8d3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base
+    second: {fileID: 2100000, guid: 7649b3d8b790fba4baf18b291081f9c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown_wood
+    second: {fileID: 2100000, guid: c6cd152eb90a20b47b3197fc038c118f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'CRN.Material #3.004'
+    second: {fileID: 2100000, guid: 42474d8f98c6b114299d6648f63958b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Da
+    second: {fileID: 2100000, guid: 6326607c409a46543bbf98fdce888498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green_grass
+    second: {fileID: 2100000, guid: 5ce77fad41179d346929be7f8bfe8344, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13'
+    second: {fileID: 2100000, guid: 47345e88fca709c4797d31046f5841ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2143883975'
+    second: {fileID: 2100000, guid: 1de003309314a5344a75c9c8402d7ae6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2145963590'
+    second: {fileID: 2100000, guid: f0307ea0325df814093ad70208075235, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147448535'
+    second: {fileID: 2100000, guid: 1f3fd613dc703e04da7d96653c69503d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147448559'
+    second: {fileID: 2100000, guid: 2e341bbb277197e4999158dbe2ca0c59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147448585'
+    second: {fileID: 2100000, guid: d4feb0b37f1da304695c725bb334931b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147448586'
+    second: {fileID: 2100000, guid: a87c7ddaabef41e41917039bed1bbb7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147448857'
+    second: {fileID: 2100000, guid: f6c317d3f59c491418798ead55224d6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147448864'
+    second: {fileID: 2100000, guid: d3153e68964cb4f42af36cb09d593f36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147448865'
+    second: {fileID: 2100000, guid: b1087ae67948dfa4ebb21d966e83def4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147448866'
+    second: {fileID: 2100000, guid: 26aff32c176f8dc43881e9c6ae64e422, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147449523'
+    second: {fileID: 2100000, guid: 943c05d182b1a214f844a28595164e74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147449549'
+    second: {fileID: 2100000, guid: 4a66e689062d68a4895b611956b5eee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147449550'
+    second: {fileID: 2100000, guid: 369777a64e8c28943a0a222aef9b2dfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #228'
+    second: {fileID: 2100000, guid: 875cc6677af9e6d4696bd48174df24e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: dc9d2a54028fa7343a65278ac69d1458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 6dc8f30035415f6418478678dd5b6136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: d65319c4b91c7734090051a2d0cf0250, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 77bca52729635634fa29b0762514493b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: POKR PILaSDasd
+    second: {fileID: 2100000, guid: 599e9813e8af31047a73cd64a1d919ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: POKR PILasdfasdfasdf
+    second: {fileID: 2100000, guid: baef1c21b8916764eb435eee7f59479c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: POKR PILasdfsdff sadasdfsadf
+    second: {fileID: 2100000, guid: 5650ec8a8a6ac684da4e5e71c8c9bb86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiles17_3K
+    second: {fileID: 2100000, guid: 2468c2feab0f29944ae4d64e844b6356, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Uph Cmix Pewter
+    second: {fileID: 2100000, guid: 8739d05315998da408f70284fd9e4ec0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: 8971f208c55a75749b1e294d50c2f281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodFlooring043_4K
+    second: {fileID: 2100000, guid: e787aa21aee7253408945d2d4cccf35d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base
+    second: {fileID: 2100000, guid: 502f5e29953a1ff419a2b2fc2724a3ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 8fed3688ffeb80948adb6b25f43cf4e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_door_Garderobe
+    second: {fileID: 2100000, guid: e98255e1b91f8804493755de15b24abd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillow
+    second: {fileID: 2100000, guid: acb32e1be57a02542a18b2b2d2af7820, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rug
+    second: {fileID: 2100000, guid: efb3d437c30a77448acb85fca55b16c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tttt#21thbf45963591
+    second: {fileID: 2100000, guid: 55f34f4629f48a3459e9e1bb899eff8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: washdish_light
+    second: {fileID: 2100000, guid: e268c08ec21515648a2d8bafde2abef8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
